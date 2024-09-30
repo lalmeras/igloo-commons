@@ -5,16 +5,16 @@
 	<parent>
 		<groupId>org.iglooproject</groupId>
 		<artifactId>plugins-all</artifactId>
-		<version>5.20.0-SNAPSHOT</version>
+		<version>5.20.0-UPDATE-SNAPSHOT</version>
 	</parent>
 
 	<groupId>org.iglooproject.components</groupId>
 	<artifactId>components</artifactId>
-	<version>5.20.0-SNAPSHOT</version>
+	<version>5.20.0-UPDATE-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<properties>
-		<igloo.igloo-maven.version>5.20.0-SNAPSHOT</igloo.igloo-maven.version>
+		<igloo.igloo-maven.version>5.20.0-UPDATE-SNAPSHOT</igloo.igloo-maven.version>
 	</properties>
 
 	<modules>

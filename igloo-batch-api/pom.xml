@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.iglooproject.components</groupId>
 		<artifactId>components</artifactId>
-		<version>5.20.0-SNAPSHOT</version>
+		<version>5.20.0-UPDATE-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>igloo-batch-api</artifactId>
@@ -68,7 +68,7 @@
 		<dependency>
 			<groupId>org.iglooproject.components</groupId>
 			<artifactId>bindgen-functional</artifactId>
-			<version>5.20.0-SNAPSHOT</version>
+			<version>5.20.0-UPDATE-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	
